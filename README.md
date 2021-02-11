@@ -47,6 +47,8 @@ Java技术栈学习记录
 
 + [记一次大量499http状态码问题出现与处理](https://mp.weixin.qq.com/s/2hmH9IvtLHN05RfTvISdng)
 
++ [如何构建一个相对安全的账号体系](https://mp.weixin.qq.com/s/1WnhYkthQQa06QcuVwcCLw)
+
 
 # 工具提效
 
