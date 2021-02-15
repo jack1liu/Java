@@ -13,6 +13,10 @@ Java技术栈学习记录
 + [深入理解Oauth2.0](https://mp.weixin.qq.com/s/qocPWGvk7lQw1eMZbshNoA)
 
 + [单例，又岂止是单例](https://mp.weixin.qq.com/s/or-DSZlviZiG_n0v4ATI-g)
+
+# 源码分析
+
++ [ThreadLocal 理解和源码分析](https://blog.csdn.net/jack1liu/article/details/97614116)
  
 
 # 实践总结
