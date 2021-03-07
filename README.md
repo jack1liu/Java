@@ -52,6 +52,8 @@ Java技术栈学习记录
 
 + [mysql 按日、周、月分组统计数据](https://blog.csdn.net/jack1liu/article/details/106415315)
 
++ [count(*)、count(主键id)、count(字段)、count(1)实现原理和性能比较](https://blog.csdn.net/jack1liu/article/details/106888747)
+
 # 源码分析
 
 + [ThreadLocal 理解和源码分析](https://blog.csdn.net/jack1liu/article/details/97614116)
