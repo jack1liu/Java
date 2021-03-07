@@ -14,6 +14,44 @@ Java技术栈学习记录
 
 + [单例，又岂止是单例](https://mp.weixin.qq.com/s/or-DSZlviZiG_n0v4ATI-g)
 
+# 缓存
+
++ [Redis数据结构和特性](https://blog.csdn.net/jack1liu/article/details/95303554)
+
++ [Redis缓存设计](https://blog.csdn.net/jack1liu/article/details/95445267)
+
++ [Redis数据分布](https://blog.csdn.net/jack1liu/article/details/95864797)
+
++ [Redis 过期策略、内存淘汰机制和 LRU 算法的实现](https://blog.csdn.net/jack1liu/article/details/107093145)
+
++ [Redis的雪崩、击穿、穿透](https://blog.csdn.net/jack1liu/article/details/107217161)
+
++ [Redis实现分布式锁和解决锁续期问题](https://blog.csdn.net/jack1liu/article/details/96270927)
+
++ [Bitmap原理和实现及其在Redis的应用](https://blog.csdn.net/jack1liu/article/details/107128744)
+
++ [BloomFilter解决Redis缓存穿透问题](https://blog.csdn.net/jack1liu/article/details/107135903)
+
++ [Redis实现消息队列](https://blog.csdn.net/jack1liu/article/details/113725818)
+
++ [Redis的key和value实践总结](https://blog.csdn.net/jack1liu/article/details/112388895)
+
++ [跳跃表的原理和实现以及应用](https://blog.csdn.net/jack1liu/article/details/104338141)
+
+# 数据库
+
++ [mysql 学习笔记](https://blog.csdn.net/jack1liu/article/details/113032833)
+
++ [mysql 读写分离和主从同步原理](https://blog.csdn.net/jack1liu/article/details/97823950)
+
++ [mysql 自增主键为什么不是连续的](https://blog.csdn.net/jack1liu/article/details/99699201)
+
++ [mysql 变更自增主键id起始值](https://blog.csdn.net/jack1liu/article/details/105291885)
+
++ [mysql alter 最佳实践总结](https://blog.csdn.net/jack1liu/article/details/110678755)
+
++ [mysql 按日、周、月分组统计数据](https://blog.csdn.net/jack1liu/article/details/106415315)
+
 # 源码分析
 
 + [ThreadLocal 理解和源码分析](https://blog.csdn.net/jack1liu/article/details/97614116)
